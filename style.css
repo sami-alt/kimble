@@ -1,0 +1,25 @@
+#board td {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+}
+
+#board td.empty {
+    border: none;
+}
+
+.Red-start {
+    background-color: red;
+}
+
+.Blue-start {
+    background-color: blue;
+}
+
+.Green-start {
+    background-color: green;
+}
+
+.Yellow-start {
+    background-color: yellow;
+}
